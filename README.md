@@ -4,7 +4,7 @@
 - 📫 Meu Gmail: jadeesteves21@gmail.com 
 - 😀 Pronouns: Ela/Dela
 
-<div align="center">
+<div>
   <a href="https://github.com/Jade-Esteves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jade-Esteves&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Esteves&layout=compact&langs_count=7&theme=onedark"/>
